@@ -1,0 +1,6 @@
+Flask>=3.0.0
+transformers>=4.40.0
+torch>=2.2.0
+pyspellchecker>=0.8.0
+sentencepiece>=0.1.99
+huggingface-hub>=0.20.0
